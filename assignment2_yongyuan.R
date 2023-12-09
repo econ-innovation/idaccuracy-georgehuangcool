@@ -31,3 +31,6 @@ file_list <- lapply(file_name[3:length(file_name)], function(file) {
 
 container <- do.call(rbind, file_list)
 
+
+
+#仍然可以学习很多，首先看起来很舒服，很好看，也很好懂，但是，因为我后面的作业还没写，所以暂时就先不跑一遍了。等我完成再运行下
